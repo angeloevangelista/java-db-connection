@@ -1,6 +1,6 @@
 # Como compilar
 
-⚠️ **Se no windows, substitua _:_ por _;_**
+⚠️ **Se no windows, substitua : por ;**
 
 Compile com o seguinte comando:
 
